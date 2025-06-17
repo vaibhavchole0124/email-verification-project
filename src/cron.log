@@ -1,0 +1,82 @@
+[2025-06-17 08:24:53] Cron started
+[2025-06-17 08:24:54] Emails sent successfully.
+[2025-06-17 08:25:01] Cron started
+[2025-06-17 08:25:01] Emails sent successfully.
+[2025-06-17 08:30:00] Cron started
+[2025-06-17 08:30:01] Emails sent successfully.
+[2025-06-17 08:35:01] Cron started
+[2025-06-17 08:35:01] Emails sent successfully.
+[2025-06-17 08:40:00] Cron started
+[2025-06-17 08:40:01] Emails sent successfully.
+[2025-06-17 08:45:00] Cron started
+[2025-06-17 08:45:01] Emails sent successfully.
+[2025-06-17 08:50:01] Cron started
+[2025-06-17 08:50:02] Emails sent successfully.
+[2025-06-17 08:52:09] Cron started
+[2025-06-17 08:52:11] Emails sent successfully.
+[2025-06-17 08:55:00] Cron started
+[2025-06-17 08:55:02] Emails sent successfully.
+[2025-06-17 09:00:00] Cron started
+[2025-06-17 09:00:02] Emails sent successfully.
+[2025-06-17 09:05:00] Cron started
+[2025-06-17 09:05:02] Emails sent successfully.
+[2025-06-17 09:10:00] Cron started
+PHP Fatal error:  Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+
+Fatal error: Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+[2025-06-17 09:15:01] Cron started
+PHP Fatal error:  Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+
+Fatal error: Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+[2025-06-17 09:20:00] Cron started
+PHP Fatal error:  Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+
+Fatal error: Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+[2025-06-17 09:25:00] Cron started
+PHP Fatal error:  Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+
+Fatal error: Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+[2025-06-17 09:30:00] Cron started
+PHP Fatal error:  Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+
+Fatal error: Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+[2025-06-17 09:35:00] Cron started
+PHP Fatal error:  Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8
+
+Fatal error: Uncaught Error: Call to undefined function sendGitHubUpdatesToSubscribers() in /Users/vaibhavgovindchole/email-verification-project/src/cron.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/vaibhavgovindchole/email-verification-project/src/cron.php on line 8

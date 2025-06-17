@@ -1,0 +1,2 @@
+testuser@example.com|VERIFIED
+jmaharastr@gmail.com|VERIFIED

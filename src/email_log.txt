@@ -1,0 +1,2 @@
+[2025-06-17 09:11:22] Email sent to testuser@example.com with code 729104
+[2025-06-17 09:15:59] Email sent to jmaharastr@gmail.com with code 847033
